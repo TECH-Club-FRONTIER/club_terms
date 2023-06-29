@@ -66,7 +66,7 @@ The collective intelligence is the greatest force for progress...
 ## *** INTERESTING TOPICS TO RESEARCH  ***
 
 CORE OF FIELDS:  
-                 AI + SOFTWARE ENGINEER + COMPUTER SCIENCE + MAT H + STATISTICS + BUSINESS  
+                <p align = "center"> <b> AI + SOFTWARE ENGINEER + COMPUTER SCIENCE + MATH + STATISTICS + BUSINESS </b> </p> 
   
 1) Deep Learning  
 	
