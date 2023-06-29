@@ -17,13 +17,13 @@ Founder Members:
 
 Collaborator: Jesus Solorzano (VEN)  
 
-### SLOGAN  
+## SLOGAN  
 collective intelligence to design AI solutions  
 
-### PARADIGM  
+## PARADIGM  
 The collective intelligence is the greatest force for progress...  
 
-### 21 RULES  
+## 21 RULES  
 
 1- club of friends. our group, our union is the most important thing  
 2- trust each other is the core of our relationships  
