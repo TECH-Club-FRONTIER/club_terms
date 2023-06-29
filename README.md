@@ -138,7 +138,7 @@ CORE OF FIELDS:
 	- Classic algorithms and Data structures	 	
    	- Dynamic programming  
    	- Greedy Algorithms  
-    	- Optimization Algorithms  
+   	- Optimization Algorithms  
    	- Graph Algorithms  
    	- Genetic Algorithms  
 
