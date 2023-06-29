@@ -44,7 +44,7 @@ The collective intelligence is the greatest force for progress...
 17- everyone supports each other, if someone needs your help and you can help this  
     person, feel free to help this person  
 18- it's an informal club... there are rules but we are free thinking  
-19- not egos, not competition, our business is the learning, creation of   
+19- not egos, not competition, our business is the learning, creation of
     solutions and experimentation  
 20- don't be shy, share anything that you have in your mind...all ideas are welcome :)  
 21- and finnally, here we don't have fuck*** deadlines :)  
