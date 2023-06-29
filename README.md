@@ -18,17 +18,14 @@ Founder Members:
 Collaborator: Jesus Solorzano (VEN)  
 
 ### SLOGAN  
-===========  
 
 collective intelligence to design AI solutions  
 
 ### PARADIGM  
-=============  
 
 The collective intelligence is the greatest force for progress...  
 
 ### 21 RULES  
-=============  
 
 1- club of friends. our group, our union is the most important thing  
 2- trust each other is the core of our relationships  
@@ -55,25 +52,23 @@ The collective intelligence is the greatest force for progress...
 21- and finnally, here we don't have fuck*** deadlines :)  
 
 ### GOALS  
-==========  
 
-1) Feel free to improve our technical skills - hard skills  
-2) Take as basis the things that university teach us...  
-   to learn and do things for which they did not teach us  
-   or evolve making our own original ideas...  
-3) Create good solutions, code, programs and systems  
-4) Learn a lot  
+1) Emulate the process of Research & Development (R&D)  
+   of the most successful companies  
+2) Feel free to improve our technical skills -> hard skills  
+3) Take as basis the things that university teach us...  
+   to learn and do things for which they did not teach us     
+4) Create good solutions, code, programs and systems  
 5) establish good friendships  
 6) improve our abilities to comunicate our ideas and explain  
-	 our projects - hard + soft skills  
+   our projects - hard + soft skills  
 7) design and implementation of practical solutions for real problems  
 
 
-#### INTERESTING TOPICS TO RESEARCH  
-=====================================  
+### *** INTERESTING TOPICS TO RESEARCH  ***
 
 CORE OF FIELDS:  
-		AI + SOFTWARE ENGINEER + COMPUTER SCIENCE + MATH + STATISTICS  
+		AI + SOFTWARE ENGINEER + COMPUTER SCIENCE + MATH + STATISTICS + BUSINESS  
   
 1) Deep Learning  
 	
@@ -204,7 +199,6 @@ CORE OF FIELDS:
 
 
 ### STRATEGIC PLAN  
-====================  
 
 1) In short-time  
 
@@ -251,8 +245,7 @@ the meetings and technical contents
   that reality demand of us.  
 
 
-#### MECHANISM AND DYNAMIC OF THE MEETINGS  
-===========================================  
+### MECHANISM AND DYNAMIC OF THE MEETINGS  
 
 1) Time  
 
