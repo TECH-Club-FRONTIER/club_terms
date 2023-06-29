@@ -196,7 +196,7 @@ CORE OF FIELDS:
 	 - Deployment of applications in server  
 
 
-### STRATEGIC PLAN  
+## STRATEGIC PLAN  
 
 1) In short-time  
 
@@ -243,7 +243,7 @@ the meetings and technical contents
   that reality demand of us.  
 
 
-### MECHANISM AND DYNAMIC OF THE MEETINGS  
+## MECHANISM AND DYNAMIC OF THE MEETINGS  
 
 1) Time  
 
