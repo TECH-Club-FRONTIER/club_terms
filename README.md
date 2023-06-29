@@ -1,4 +1,4 @@
-# TECH CLUB FRONTIER - membership terms  
+# TECH CLUB FRONTIER - Membership Terms...  
 
 Date of foundation: Saturday, 01.07.2023  
 President/Founder: Holger Espinola Rivera (BRA)  
@@ -49,7 +49,7 @@ The collective intelligence is the greatest force for progress...
 20- don't be shy, share anything that you have in your mind...all ideas are welcome :)  
 21- and finnally, here we don't have fuck*** deadlines :)  
 
-### GOALS  
+## GOALS  
 
 1) Emulate the process of Research & Development (R&D)  
    of the most successful companies  
@@ -63,7 +63,7 @@ The collective intelligence is the greatest force for progress...
 7) design and implementation of practical solutions for real problems  
 
 
-### *** INTERESTING TOPICS TO RESEARCH  ***
+## *** INTERESTING TOPICS TO RESEARCH  ***
 
 CORE OF FIELDS:  
 		AI + SOFTWARE ENGINEER + COMPUTER SCIENCE + MATH + STATISTICS + BUSINESS  
